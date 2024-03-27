@@ -50,6 +50,10 @@
 | [Reuters](https://reuters.com/)                        | [Neuters](https://github.com/HookedBehemoth/neuters)                                                                                                             |
 | [Snopes](https://reuters.com/)                         | [Suds](https://git.vern.cc/cobra/Suds)                                                                                                                           |
 
+## Troubleshooting
+### Custom Instance is ignored
+Ensure that the custom instance is provided as the base domain URL (i.e. `example.com`) and NOT the full-path URL (i.e. `https://example.com/`). 
+
 ## Attribution
 
 Icon modified from u-turn by Creative Stall from [Noun Project](https://thenounproject.com/browse/icons/term/u-turn/) (CC BY 3.0)
